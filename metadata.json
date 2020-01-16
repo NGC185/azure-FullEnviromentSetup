@@ -1,0 +1,10 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Deploy AD w/ VMs",
+  "icon": "windowsVM",
+  "description": "This script will call nested scripts to deploy a full AD setup in azure, generate multiple host VMs, and then join those VMs to the domain",
+  "summary": "Summary longer than 10",
+  "githubUsername": "k1lln1n3",
+  "dateUpdated": "2019-10-31"
+}
